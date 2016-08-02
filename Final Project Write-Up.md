@@ -35,7 +35,7 @@ I have been an Etsy seller (and buyer) since 2010. There are many resources prov
 There is a site craftcount.com which ranks Etsy shops by sales over a given duration. You can also choose to see rankings for specific countries or categories. This is a useful tool, however the website only ranks shops that have specifically signed up to appear in the rankings. This means that there are a large number of shops which are not accounted for at all. 
 
 # Potential Methods and Models
-How complicated does the model have to be?
+My model would not have to be very complicated with this particular problem. A potential model for a binary outcome would be logistic regression. For predicting the quantitative outcome, linear regression could be used.
 
 # Project Concerns
 
