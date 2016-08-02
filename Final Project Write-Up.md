@@ -5,7 +5,10 @@ Etsy is a marketplace where creative entrepreneurs sell what they make or curate
 
 ## Hypothesis
 Item reviews, categories and number of views will predict a (binary) outcome of whether or not an item will sell for a given item category on Etsy based on data obtained through scraping Etsy’s web pages. 
+
+
 Alternate Hypothesis: Item reviews, categories and number of views will predict the (continuous probability) likelihood of an item sale for a given item category on Etsy and a given time period based on data obtained through scraping Etsy’s web pages. 
+
 Alternate Hypothesis: Item reviews, categories and number of views will predict a (continuous quantitative) volume of sales for a given item category on Etsy and a given time period based on data obtained through scraping Etsy’s web pages. 
 
 ## Impact
