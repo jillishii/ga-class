@@ -35,7 +35,9 @@ I have been an Etsy seller (and buyer) since 2010. There are many resources prov
 There is a site craftcount.com which ranks Etsy shops by sales over a given duration. You can also choose to see rankings for specific countries or categories. This is a useful tool, however the website only ranks shops that have specifically signed up to appear in the rankings. This means that there are a large number of shops which are not accounted for at all. 
 
 # Potential Methods and Models
-My model would not have to be very complicated with this particular problem. A potential model for a binary outcome would be logistic regression. For predicting the quantitative outcome, linear regression could be used.
+* For predicting a binary outcome of sale or no sale: logistic regression
+* For predicting the quantitative outcome of volume of sales: linear regression
+* For the classification portion of determining which season or date range to expect sales: K Nearest Neighbors
 
 # Project Concerns
 
