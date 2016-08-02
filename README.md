@@ -1,4 +1,5 @@
 # ga-class
-Course work for Data Science
 
-Will include unit projects and final project.
+Course work for General Assembly Data Science course
+
+Includes unit projects and final project.
