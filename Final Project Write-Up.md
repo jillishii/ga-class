@@ -14,14 +14,15 @@ A successful model which could be used to predict item sales would help Etsy sel
 # Datasets
 Data is obtained through HTML web scraping. Relevant predictors for my model include:
 
-Shop Name
-Shop Category
-Review Item Title
-Review Date
-Review Star Rating
-Active Listing Titles
-Active Listing Categories
-Active Listing Views
+Variable | Description | Type
+Shop Name | Name of the seller's shop | qualitative
+Shop Category | Category of items a shop sells | categorical
+Review Item Title | Descriptive title of a sold item review | qualitative
+Review Date | Date a sold item has been reviewed | discrete
+Review Star Rating | 1 - 5 star rating of a sold item | discrete
+Active Listing Titles | Descriptive title of an item for sale | qualitative
+Active Listing Categories | Catefory of items a shop sells | categorical
+Active Listing Views | Number of clicks or views an item on an item for sale | quantitative
 
 # Domain knowledge
 I have been an Etsy seller (and buyer) since 2010. There are many resources provided by Etsy through blogs and forums to help guide sellers to success. However, these are largely tips and narratives written by other sellers who are simply describing what worked best for them. All of these tips and tricks are based on seller’s trial and error and address success more from a marketing perspective than the products themselves. My project will address the products themselves and whether it is likely to sell or not.
