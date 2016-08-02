@@ -53,5 +53,6 @@ I have several hypothesis that would work with the data, and all would give sell
 
 # Outcomes
 The outcome of my model will predict whether or not an item will sell after selecting an item category and target time of sale. My target audience, which is Etsy sellers, would be able to use my model to predict whether or not to produce a certain item, or perhaps whether to list it only during certain seasons. A successful model will accurately predict the sale of an item with an 80% accuracy. The data will be randomized and used as both the training set and the test set of data.
+
 I expect the Review Date to provide the most important outcome on its own because it will give a sense of the seasonality of specific items which are selling. With only this feature I will be able to tell which items are selling within which dates.
 As a corollary of this project, I expect that another interesting feature would be know not only which items are popular and selling, but how much competition any given seller would face within a particular category. This also would impact the likelihood of items selling.
