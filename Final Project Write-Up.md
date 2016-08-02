@@ -15,6 +15,7 @@ A successful model which could be used to predict item sales would help Etsy sel
 Data is obtained through HTML web scraping. Relevant predictors for my model include:
 
 Variable | Description | Type
+--- | --- | ---
 Shop Name | Name of the seller's shop | qualitative
 Shop Category | Category of items a shop sells | categorical
 Review Item Title | Descriptive title of a sold item review | qualitative
